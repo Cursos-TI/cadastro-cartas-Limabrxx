@@ -92,7 +92,7 @@ int main() {
   printf("PIB: %f bilhoes de reais\n", pib1);
   printf("Pontos Turisticos: %d\n", pontosturisticos1);
 
-  printf("\n==========================\n\n");
+  printf("\n===========================\n\n");
 
   printf("Carta 2: \n");
   printf("Estado: %c\n", estado2);
